@@ -1,0 +1,35 @@
+📸 需要准备的 9 张图片 - 快速清单
+
+将图片放在这个文件夹中：/public/images/
+
+✅ 1. logo.png                    (Logo - 透明背景PNG)
+✅ 2. hero-background.jpg         (首屏大图 - 1920×1080px)
+✅ 3. brand-story-1.jpg          (品牌故事图1 - 800×600px)
+✅ 4. brand-story-2.jpg          (品牌故事图2 - 800×600px)
+✅ 5. product-hero.jpg           (产品主图 - 1000×800px)
+✅ 6. product-feature-1.jpg      (产品特色1 - 800×600px)
+✅ 7. product-feature-2.jpg      (产品特色2 - 800×600px)
+✅ 8. franchise-benefits.jpg     (加盟优势 - 800×600px)
+✅ 9. application-form.jpg       (申请表单 - 800×600px)
+
+---
+
+图片内容建议：
+1. Logo - Prawn Popper 品牌标志
+2. 首屏 - 虾片特写或制作场景（要震撼！）
+3-4. 品牌故事 - 集市摊位、制作过程、顾客
+5-7. 产品 - 虾片特写、制作过程、健康食材
+8. 加盟 - 成功店铺、销售场景
+9. 申请 - 合作握手、签约场景
+
+---
+
+质量要求：
+• 分辨率：最低 800px 宽，推荐 1200-1920px
+• 文件大小：200KB - 1MB（不超过 3MB）
+• 格式：Logo 用 PNG，照片用 JPG
+• 色调：橙色、奶白色、深蓝色系
+
+---
+
+完成后回复："图片已准备好" 🚀
